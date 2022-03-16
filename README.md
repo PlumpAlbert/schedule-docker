@@ -9,5 +9,5 @@ docker build --compress --rm --tag schedule:$(date +%F) --tag schedule:latest .
 
 Then create docker container using image that we created earlier:
 ```bash
-docker container create --publish 9090:9000 --hostname schedule.localdomain.local schedule:latest
+docker container create --publish ${host_port_to_use}:9000 schedule:latest
 ```
