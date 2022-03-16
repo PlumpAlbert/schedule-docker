@@ -1,5 +1,6 @@
 # Dockerizing Schedule app
 <img src="./onefetch.svg" />
+
 Copy `.env.local` to `.env` and edit to suite your needs:
 ```bash
 cp .env.local .env
