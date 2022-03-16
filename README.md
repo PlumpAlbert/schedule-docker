@@ -1,5 +1,5 @@
 # Dockerizing Schedule app
-[![asciicast](https://asciinema.org/a/Aio3RTgUDEIokIVFaMQlYBEhL.svg)](https://asciinema.org/a/Aio3RTgUDEIokIVFaMQlYBEhL)
+<script id="asciicast-Aio3RTgUDEIokIVFaMQlYBEhL" src="https://asciinema.org/a/Aio3RTgUDEIokIVFaMQlYBEhL.js" async></script>
 
 Copy `.env.local` to `.env` and edit to suite your needs:
 ```bash
