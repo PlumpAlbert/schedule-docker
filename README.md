@@ -1,6 +1,5 @@
 # Dockerizing Schedule app
-<script id="asciicast-Aio3RTgUDEIokIVFaMQlYBEhL" src="https://asciinema.org/a/Aio3RTgUDEIokIVFaMQlYBEhL.js" async></script>
-
+<img src="./onefetch.svg" />
 Copy `.env.local` to `.env` and edit to suite your needs:
 ```bash
 cp .env.local .env
