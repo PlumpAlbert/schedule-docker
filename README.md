@@ -1,4 +1,5 @@
 # Dockerizing Schedule app
+[![asciicast](https://asciinema.org/a/Aio3RTgUDEIokIVFaMQlYBEhL.svg)](https://asciinema.org/a/Aio3RTgUDEIokIVFaMQlYBEhL)
 
 Copy `.env.local` to `.env` and edit to suite your needs:
 ```bash
