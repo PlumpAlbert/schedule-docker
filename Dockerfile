@@ -36,6 +36,9 @@ RUN composer install \
 	--no-scripts \
 	--optimize-autoloader
 
+# Generate application key
+RUN php artisan key:generate
+
 # Change user to www and start php-fpm
 USER www
 EXPOSE 9000
